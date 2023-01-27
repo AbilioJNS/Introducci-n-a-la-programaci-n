@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Iniciación a la programación\obj\Debug\Iniciación a la programación.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Iniciación a la programación\obj\Debug\Iniciación a la programación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Iniciación a la programación\obj\Debug\Iniciación a la programación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Iniciación a la programación\bin\Debug\Iniciación a la programación.exe.config
+C:\Users\Usuario\source\repos\Iniciación a la programación\bin\Debug\Iniciación a la programación.exe
+C:\Users\Usuario\source\repos\Iniciación a la programación\bin\Debug\Iniciación a la programación.pdb
+C:\Users\Usuario\source\repos\Iniciación a la programación\obj\Debug\Iniciación a la programación.exe
+C:\Users\Usuario\source\repos\Iniciación a la programación\obj\Debug\Iniciación a la programación.pdb

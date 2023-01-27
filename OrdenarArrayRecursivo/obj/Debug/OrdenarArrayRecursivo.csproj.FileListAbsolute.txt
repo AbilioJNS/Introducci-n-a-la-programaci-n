@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\bin\Debug\OrdenarArrayRecursivo.exe.config
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\bin\Debug\OrdenarArrayRecursivo.exe
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\bin\Debug\OrdenarArrayRecursivo.pdb
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\obj\Debug\OrdenarArrayRecursivo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\obj\Debug\OrdenarArrayRecursivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\obj\Debug\OrdenarArrayRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\obj\Debug\OrdenarArrayRecursivo.exe
+C:\Users\Usuario\source\repos\OrdenarArrayRecursivo\obj\Debug\OrdenarArrayRecursivo.pdb

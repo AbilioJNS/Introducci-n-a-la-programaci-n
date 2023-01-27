@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\bin\Debug\MetodoRecursivoConRandom.exe.config
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\bin\Debug\MetodoRecursivoConRandom.exe
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\bin\Debug\MetodoRecursivoConRandom.pdb
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\obj\Debug\MetodoRecursivoConRandom.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\obj\Debug\MetodoRecursivoConRandom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\obj\Debug\MetodoRecursivoConRandom.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\obj\Debug\MetodoRecursivoConRandom.exe
+C:\Users\Usuario\source\repos\MetodoRecursivoConRandom\obj\Debug\MetodoRecursivoConRandom.pdb
