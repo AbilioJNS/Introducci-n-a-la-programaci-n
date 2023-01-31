@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\ClasesYObjetos\bin\Debug\ClasesYObjetos.exe.config
+C:\Users\Usuario\source\repos\ClasesYObjetos\bin\Debug\ClasesYObjetos.exe
+C:\Users\Usuario\source\repos\ClasesYObjetos\bin\Debug\ClasesYObjetos.pdb
+C:\Users\Usuario\source\repos\ClasesYObjetos\obj\Debug\ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ClasesYObjetos\obj\Debug\ClasesYObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ClasesYObjetos\obj\Debug\ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClasesYObjetos\obj\Debug\ClasesYObjetos.exe
+C:\Users\Usuario\source\repos\ClasesYObjetos\obj\Debug\ClasesYObjetos.pdb

@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\tratamientoArray\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\tratamientoArray\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\tratamientoArray\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tratamientoArray\bin\Debug\tratamientoArray.exe.config
+C:\Users\Usuario\source\repos\tratamientoArray\bin\Debug\tratamientoArray.exe
+C:\Users\Usuario\source\repos\tratamientoArray\bin\Debug\tratamientoArray.pdb
+C:\Users\Usuario\source\repos\tratamientoArray\obj\Debug\tratamientoArray.exe
+C:\Users\Usuario\source\repos\tratamientoArray\obj\Debug\tratamientoArray.pdb
